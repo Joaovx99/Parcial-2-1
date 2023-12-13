@@ -1,4 +1,4 @@
-# Parcial-2-1
+# Parcial-2-1 Joao Vitor Gomes Curi (2016588) guilherme henrique lerak sa barros de souza (2137200)
 Crie um programa, usando o ‘Editor’ no Octave, com as seguintes instruções:
 
 • Inicie o programa com os seguintes comandos: clear, close all, clc;
